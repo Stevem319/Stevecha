@@ -3,3 +3,4 @@ Werkzeug==3.0.1
 requests==2.31.0
 beautifulsoup4==4.12.3
 gunicorn==21.2.0
+Flask-CORS==4.0.1 
